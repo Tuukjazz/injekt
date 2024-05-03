@@ -8,11 +8,11 @@ Login With Correct Credentials
     Output Should Contain  Logged in
 
 Login With Incorrect Password
-	Create User  pe  pe123
-	Input Credentials  pe  pe1234
+	Create User  peee  pe123121212121212
+	Input Credentials  peee  pe12341212121
 
 Login With Nonexistent Username
-	Input Credentials  pee  1233
+	Input Credentials  peeee  1233
 
 *** Keywords ***
 Create User And Input Login Command
